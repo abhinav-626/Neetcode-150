@@ -9,6 +9,7 @@ class Solution {
                 max1 = num;
             } else if (num > max2) {
                 max2 = num;
+..
             }
         }
 
